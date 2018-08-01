@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hai friend!
+sam here. i like devops.
+      
